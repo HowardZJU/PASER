@@ -13,7 +13,7 @@ The source code for our submission **"PASER: Patchified Spectral Representation 
 ## Datasets
 
 We reuse the datasets that are provided in [Google Drive](https://drive.google.com/drive/folders/1omfrWZiYwmj3eFpIpb-8O29wbt4SVGzP?usp=sharing)
- and [Baidu Netdisk](https://pan.baidu.com/s/1we2eJ_Vz9SM33PoRqPNijQ?pwd=kzq2). The downloaded dataset should be placed in the `data` folder.
+ and [Baidu Netdisk](https://pan.baidu.com/s/1we2eJ_Vz9SM33PoRqPNijQ?pwd=kzq2). The downloaded dataset should be placed in the `data` folder. Optionally you can unzip the .zip files in this repository and move the obtained dataset files to the `data` folder.
 
 ## Reproduction
 
